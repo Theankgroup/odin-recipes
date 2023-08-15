@@ -1,4 +1,4 @@
-This is th Odin Recipes Project.
+This is the Odin Recipes Project.
 My goal is to complete a basic recipe website using HTML.
 I will use the skills below
 Absolute and relative links
